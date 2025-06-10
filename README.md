@@ -34,18 +34,18 @@ This machine learning project focuses on detecting fraudulent credit card transa
       jupyter notebook notebook/fraud_detection.ipynb
 
  
-##📈 Learning Curve
+## 📈 Learning Curve
   The following plot shows how the model performs with increasing training data:
       ￼PLEASE CHECK THE IMAGES FOLDER FOR THE GRAPH
 
 
 
-##💾 Trained Model
+## 💾 Trained Model
    The final trained model is saved as:
      model/rf_model.pkl
 
 
-##🛠 Tech Stack
+## 🛠 Tech Stack
 	•	Python 3.10+
 	•	scikit-learn
 	•	pandas, NumPy
@@ -54,9 +54,9 @@ This machine learning project focuses on detecting fraudulent credit card transa
 	•	tqdm
 
 
-##🤝 Contributions
+## 🤝 Contributions
      Open to pull requests, improvements, or feedback.
 
-##🧠 Author
+## 🧠 Author
    Made with ❤️ by AppNinjas123
 
